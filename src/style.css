@@ -1,0 +1,17 @@
+body {
+  background: #ffc93c;
+  text-align: center;
+}
+
+a {
+  padding: 5px;
+}
+
+footer a {
+  color: #ff6f3c;
+}
+
+.croissant-pic {
+  max-width: 100%;
+  border-radius: 5px;
+}
